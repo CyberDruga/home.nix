@@ -30,7 +30,7 @@ rec {
     # # symlink to the Nix store copy.
     # ".screenrc".source = dotfiles/screenrc;
 
-    ".fonts.conf".source = ./fonts.conf;
+    ".config/fontconfig/fonts.conf".source = ./fonts.conf;
 
     # # You can also set the file content immediately.
     # ".gradle/gradle.properties".text = ''
