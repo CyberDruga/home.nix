@@ -15,7 +15,7 @@
     flameshot-pin.url = "nixpkgs/b60793b86201040d9dee019a05089a9150d08b5b";
 
     zen-browser.url = "github:0xc000022070/zen-browser-flake";
-    neovim-config.url = "github:kabessao/kickstart.nvim";
+    neovim-config.url = "github:CyberDruga/neovim.nix";
     jujutsu.url = "github:jj-vcs/jj";
 
     home-manager = {

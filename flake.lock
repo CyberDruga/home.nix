@@ -135,26 +135,26 @@
         "nixpkgs": "nixpkgs_2"
       },
       "locked": {
-        "lastModified": 1762820737,
-        "narHash": "sha256-ApRzvdGGaO2bxaglKvcr7KNZ4W9Uh6CRwNWFqnSfSqQ=",
-        "owner": "kabessao",
-        "repo": "kickstart.nvim",
-        "rev": "fd04526edf979ddfb5874234d4a7fdb3a8c64d95",
+        "lastModified": 1767912940,
+        "narHash": "sha256-3mTYoO6i9097cQ10jM0LsizZGbJ9tP87FWeim2XZr2A=",
+        "owner": "CyberDruga",
+        "repo": "neovim.nix",
+        "rev": "2de5c82eddc74b70e15e92c82d2303d83d97a4aa",
         "type": "github"
       },
       "original": {
-        "owner": "kabessao",
-        "repo": "kickstart.nvim",
+        "owner": "CyberDruga",
+        "repo": "neovim.nix",
         "type": "github"
       }
     },
     "nixCats": {
       "locked": {
-        "lastModified": 1748760778,
-        "narHash": "sha256-i0xBOGCDtrJ29sIelwbSATUJK4AP6McPMxBA0dthK0o=",
+        "lastModified": 1767604651,
+        "narHash": "sha256-itAnxzTpWpY1s3LA/oNngOuZDXT5U5JUZP5fApwx9gs=",
         "owner": "BirdeeHub",
         "repo": "nixCats-nvim",
-        "rev": "88cde33af841e2aa1ea0c83c4d9dcfefdde54fb3",
+        "rev": "3c9bc4d7123e1b48d92f25ba505b889af541e897",
         "type": "github"
       },
       "original": {
@@ -181,16 +181,16 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1749213349,
-        "narHash": "sha256-UAaWOyQhdp7nXzsbmLVC67fo+QetzoTm9hsPf9X3yr4=",
+        "lastModified": 1767799921,
+        "narHash": "sha256-r4GVX+FToWVE2My8VVZH4V0pTIpnu2ZE8/Z4uxGEMBE=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "a4ff0e3c64846abea89662bfbacf037ef4b34207",
+        "rev": "d351d0653aeb7877273920cd3e823994e7579b0b",
         "type": "github"
       },
       "original": {
         "owner": "nixos",
-        "ref": "nixpkgs-unstable",
+        "ref": "nixos-25.11",
         "repo": "nixpkgs",
         "type": "github"
       }
