@@ -66,6 +66,7 @@
           zen-browser = zen-browser.twilight;
           jujutsu     = jujutsu-repo.jujutsu;
           flameshot   = flameshot-pin.flameshot;
+          stremio     = pkgs.callPackage ./customPackages/stremio-shell.nix {} ;
 
           dolphin-emu = unstable.dolphin-emu;
           evolution   = unstable.evolution;

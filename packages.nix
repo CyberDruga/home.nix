@@ -14,7 +14,7 @@
     kdePackages.kdenlive
     dolphin-emu
     speedtest-cli
-    # stremio
+    stremio
     yt-dlp
     translate-shell
     oversteer
